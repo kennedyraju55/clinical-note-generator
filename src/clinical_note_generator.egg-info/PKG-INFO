@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: clinical-note-generator
+Version: 1.0.0
+Summary: AI-powered SOAP note generation from patient encounters - 100% local, HIPAA-friendly
+Requires-Python: >=3.10
+Requires-Dist: requests
+Requires-Dist: rich
+Requires-Dist: click
+Requires-Dist: pyyaml
+Requires-Dist: streamlit
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

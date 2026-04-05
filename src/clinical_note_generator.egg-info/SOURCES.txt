@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/clinical_note_generator/__init__.py
+src/clinical_note_generator/api.py
+src/clinical_note_generator/cli.py
+src/clinical_note_generator/config.py
+src/clinical_note_generator/core.py
+src/clinical_note_generator/web_ui.py
+src/clinical_note_generator.egg-info/PKG-INFO
+src/clinical_note_generator.egg-info/SOURCES.txt
+src/clinical_note_generator.egg-info/dependency_links.txt
+src/clinical_note_generator.egg-info/entry_points.txt
+src/clinical_note_generator.egg-info/requires.txt
+src/clinical_note_generator.egg-info/top_level.txt
+tests/test_core.py
